@@ -62,7 +62,7 @@ Below are the main languages and tools I use in my daily projects and experiment
   &nbsp;&nbsp;
   <!-- Scripting & DevOps -->
   <a target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42" />
+    <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="42" height="42" />
   </a>
   &nbsp;
   <a target="_blank">
