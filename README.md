@@ -83,11 +83,3 @@ Below are the main languages and tools I use in my daily projects and experiment
 </p>
 
 ---
-
-## 📫 Where to Find Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/giacomodiclerico" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A77B6" alt="LinkedIn" />
-  </a>
-</p>
