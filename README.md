@@ -81,5 +81,3 @@ Below are the main languages and tools I use in my daily projects and experiment
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
   </a>
 </p>
-
----
